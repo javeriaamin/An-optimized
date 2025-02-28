@@ -1,4 +1,4 @@
-# Malaria Cell Segmentation and Classification
+# Malaria Cell Segmentation and Classification v
 
 ## Introduction
 This Python implementation performs **malaria cell segmentation and classification** using advanced machine learning techniques:
