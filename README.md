@@ -1,4 +1,3 @@
-# An optimized features selection approach based on Manta Ray Foraging Optimization (MRFO) method for parasite malaria classification
 
 
 ## Introduction
